@@ -27,13 +27,26 @@ How long to master this?
 
 <!-- /wp:paragraph -->
 
- [1]: https://academy.substance3d.com/courses/getting-started-with-substance-painter-2018/youtube-IGGQl9kVB1M
+<!-- wp:heading -->
 
+## I was expecting title like this
+
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+
+*   And bullet 1
+*   bullet 2... etc
+*   ...
+
+<!-- /wp:list -->
 
 <!-- wp:paragraph -->
 
- ----
- # A title written in VSCode
- * bullet 2
- 
+* * *
+
+# A title written in VSCode * bullet 2
+
 <!-- /wp:paragraph -->
+
+ [1]: https://academy.substance3d.com/courses/getting-started-with-substance-painter-2018/youtube-IGGQl9kVB1M
