@@ -38,16 +38,11 @@ How long to master this?
 *   And bullet 1
 *   bullet 2... etc
 *   bullet 3
-* Bullet 4
+*  [x][2]
 
 <!-- /wp:list -->
-
-<!-- wp:paragraph -->
-
-* * *
-
-# A title written in VSCode * bullet 2
-
-<!-- /wp:paragraph -->
+ 
 
  [1]: https://academy.substance3d.com/courses/getting-started-with-substance-painter-2018/youtube-IGGQl9kVB1M
+
+ [2]: https://guillaumeisabelle.com/x
