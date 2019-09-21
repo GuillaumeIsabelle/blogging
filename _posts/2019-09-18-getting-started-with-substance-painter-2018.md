@@ -21,4 +21,10 @@ How long to master this?
 
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+
+...
+
+<!-- /wp:paragraph -->
+
  [1]: https://academy.substance3d.com/courses/getting-started-with-substance-painter-2018/youtube-IGGQl9kVB1M
