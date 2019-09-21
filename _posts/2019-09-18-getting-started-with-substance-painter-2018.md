@@ -34,6 +34,6 @@ How long to master this?
 
  ----
  # A title written in VSCode
- * bullet 1
+ * bullet 2
  
 <!-- /wp:paragraph -->
