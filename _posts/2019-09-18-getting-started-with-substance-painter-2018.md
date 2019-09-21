@@ -37,7 +37,8 @@ How long to master this?
 
 *   And bullet 1
 *   bullet 2... etc
-*   ...
+*   bullet 3
+* Bullet 4
 
 <!-- /wp:list -->
 
