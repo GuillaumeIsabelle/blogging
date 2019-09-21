@@ -28,3 +28,9 @@ How long to master this?
 <!-- /wp:paragraph -->
 
  [1]: https://academy.substance3d.com/courses/getting-started-with-substance-painter-2018/youtube-IGGQl9kVB1M
+
+
+ ----
+ # A title written in VSCode
+ * bullet 1
+ 
