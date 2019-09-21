@@ -4,7 +4,9 @@ post_title: >
   Thinking in Structures – Robert Fritz
   Inc.
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  good introduction to some of the unique
+  principles of structural dynamics
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/09/21/thinking-in-structures-robert-fritz-inc/
