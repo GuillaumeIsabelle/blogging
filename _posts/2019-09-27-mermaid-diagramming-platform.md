@@ -6,7 +6,8 @@ post_title: >
 author: gicomadmin
 post_excerpt: ""
 layout: post
-permalink: 'http://guillaumeisabelle.com/blogging/2019/09/27/mermaid-readme-md-at-master-%c2%b7-guillaumeisabellex-mermaid/'
+permalink: >
+  http://guillaumeisabelle.com/blogging/2019/09/27/mermaid-diagramming-platform/
 published: true
 post_date: 2019-09-27 07:50:55
 ---
