@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2019-09-27 06:59:20
 ---
-> Zotpress displays your Zotero citations on WordPress. Source: *[Add Plugins ‹ Network Admin: Guillaume Isabelle Sites — WordPress][1]*
+> Zotpress displays your Zotero citations on WordPress.
+
+Source: *[Add Plugins ‹ Network Admin: Guillaume Isabelle Sites — WordPress][1]*
+
+<!-- wp:image {"id":370} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-1.png" alt="" class="wp-image-370" /></figure> <!-- /wp:image -->
 
  [1]: http://guillaumeisabelle.com/wp-admin/network/plugin-install.php
