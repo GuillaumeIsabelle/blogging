@@ -1,6 +1,6 @@
 ---
 ID: 368
-post_title: 'Add Plugins ‹ Network Admin: Guillaume Isabelle Sites — WordPress'
+post_title: 'Add Plugins ‹ GID&#8217;s Network Admin: Guillaume Isabelle Sites — WordPress'
 author: gicomadmin
 post_excerpt: ""
 layout: post
