@@ -11,7 +11,9 @@ post_date: 2019-09-27 07:50:55
 ---
 [embed]https://github.com/GuillaumeIsabelleX/mermaid/blob/master/README.md#--stcgoal[/embed]
 
-> @STCGoal Generation of diagrams and flowcharts from text in a similar manner as markdown.
+>  
+
+<!-- wp:block-lab/stc-vision-block {"vision":"@STCGoal Generation of diagrams and flowcharts from text in a similar manner as markdown.","dtdue":"181001"} /-->
 
 <!-- wp:image {"id":391} --><figure class="wp-block-image">
 
