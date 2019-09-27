@@ -17,4 +17,8 @@ Source: *[Add Plugins ‹ Network Admin: Guillaume Isabelle Sites — WordPress]
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-1.png" alt="" class="wp-image-370" /></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":372} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-2-520x1024.png" alt="" class="wp-image-372" /></figure> <!-- /wp:image -->
+
  [1]: http://guillaumeisabelle.com/wp-admin/network/plugin-install.php
