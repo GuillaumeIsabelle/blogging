@@ -25,4 +25,14 @@ Source: *[Add Plugins ‹ Network Admin: Guillaume Isabelle Sites — WordPress]
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-2-520x1024.png" alt="" class="wp-image-372" /></figure> <!-- /wp:image -->
 
+<!-- wp:paragraph -->
+
+Installing...
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":382} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-5-1024x822.png" alt="" class="wp-image-382" /><figcaption>Configured the API...</figcaption></figure> <!-- /wp:image -->
+
  [1]: http://guillaumeisabelle.com/wp-admin/network/plugin-install.php
