@@ -1,13 +1,11 @@
 ---
 ID: 389
-post_title: >
-  mermaid/README.md at master ·
-  GuillaumeIsabelleX/mermaid
+post_title: 'Optimal diagramming platform &#8211; Mermaid project'
 author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/09/27/mermaid-diagramming-platform/
+  http://guillaumeisabelle.com/blogging/2019/09/27/optimal-diagramming-platform-mermaid-project/
 published: true
 post_date: 2019-09-27 07:50:55
 ---
