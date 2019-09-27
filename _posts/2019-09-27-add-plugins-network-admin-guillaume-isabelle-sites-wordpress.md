@@ -2,7 +2,9 @@
 ID: 368
 post_title: 'Added Plugins ‹ GID&#8217;s Network Admin: Guillaume Isabelle Sites — WordPress'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: |
+  --@STCGoal Optimal Management of Citations - Optimal Reading Work flow that generates useful content for thesis writting
+  --@STCObservation You can have multiple Zotero account
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/09/27/add-plugins-network-admin-guillaume-isabelle-sites-wordpress/
@@ -34,5 +36,16 @@ Installing...
 <!-- wp:image {"id":382} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-5-1024x822.png" alt="" class="wp-image-382" /><figcaption>Configured the API...</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":384} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-6-1024x486.png" alt="" class="wp-image-384" /><figcaption>Last step Styling...  
+--@STCObservation You can have multiple Zotero account</figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
 
  [1]: http://guillaumeisabelle.com/wp-admin/network/plugin-install.php
