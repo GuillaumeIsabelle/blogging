@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/09/27/functions-block-lab/
+  http://guillaumeisabelle.com/blogging/2019/09/27/wpap-plugin-blocklab-functions-block-lab/
 published: true
 post_date: 2019-09-27 06:15:26
 ---
