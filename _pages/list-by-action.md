@@ -11,4 +11,4 @@ post_date: 2019-10-01 15:19:05
 ---
 <!-- wp:tag-cloud /-->
 
-<!-- wp:categories /-->
+<!-- wp:categories {"showHierarchy":true,"showPostCounts":true} /-->
