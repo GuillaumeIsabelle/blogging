@@ -36,3 +36,7 @@ ISSSUE Erreur HTTP 500.19 - Internal Server Error
 <!-- wp:image {"id":570} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-2.png" alt="" class="wp-image-570" /></figure> <!-- /wp:image -->
+
+<!-- wp:image {"id":572} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-3.png" alt="" class="wp-image-572" /></figure> <!-- /wp:image -->
