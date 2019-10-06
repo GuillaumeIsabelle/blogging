@@ -9,8 +9,20 @@ permalink: >
 published: true
 post_date: 2019-10-06 11:21:16
 ---
-<!-- wp:image --><figure class="wp-block-image">
+<!-- wp:paragraph -->
 
-![][1]</figure> <!-- /wp:image -->
 
- [1]: blob:http://guillaumeisabelle.com/73df398b-0073-4a68-bf96-d64414c01879
+
+<!-- /wp:paragraph -->
+
+<!-- wp:block-lab/stc-vision-block {"vision":"PDF are joined to the source in an acceptable amount of click"} /-->
+
+<!-- wp:heading {"level":3} -->
+
+### connect Kopernio 
+
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":568} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-1.png" alt="" class="wp-image-568" /><figcaption> connect Kopernio with your library subscriptions to continue enjoying one-click PDF access off campus </figcaption></figure> <!-- /wp:image -->
