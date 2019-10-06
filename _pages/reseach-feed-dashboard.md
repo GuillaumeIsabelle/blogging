@@ -11,4 +11,4 @@ post_date: 2019-10-06 15:13:13
 ---
 <!-- wp:rss {"blockLayout":"grid","feedURL":"http://decouverte.uquebec.ca/primo_library/libweb/newRss?rssId=1961569069\u0026ver=2_1_4","displayExcerpt":true,"displayAuthor":true,"displayDate":true} /-->
 
-<!-- wp:rss {"feedURL":"http://decouverte.uquebec.ca/primo_library/libweb/newRss?rssId=1211301072\u0026ver=2_1_4"} /-->
+<!-- wp:rss {"feedURL":"http://decouverte.uquebec.ca/primo_library/libweb/newRss?rssId=1211301072\u0026ver=2_1_4","itemsToShow":10} /-->
