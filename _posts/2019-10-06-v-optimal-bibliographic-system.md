@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2019-10-06 11:21:16
 ---
-<!-- wp:paragraph -->
+<!-- wp:block-lab/stc-vision-block {"vision":"Write and cite your reference optimally","dtdue":"191006"} /-->
 
+<!-- wp:image {"id":575} --><figure class="wp-block-image">
 
-
-<!-- /wp:paragraph -->
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-4.png" alt="" class="wp-image-575" /><figcaption>Insert citation in word</figcaption></figure> <!-- /wp:image -->
 
 <!-- wp:block-lab/stc-vision-block {"vision":"PDF are joined to the source in an acceptable amount of click"} /-->
 
