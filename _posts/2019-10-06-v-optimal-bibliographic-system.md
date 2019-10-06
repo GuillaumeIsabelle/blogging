@@ -15,6 +15,10 @@ post_date: 2019-10-06 11:21:16
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-4.png" alt="" class="wp-image-575" /><figcaption>Insert citation in word</figcaption></figure> <!-- /wp:image -->
 
+<!-- wp:image {"id":577} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-5.png" alt="" class="wp-image-577" /><figcaption>If your Bibliography has been updated by your work, just update your citation in your document</figcaption></figure> <!-- /wp:image -->
+
 <!-- wp:block-lab/stc-vision-block {"vision":"PDF are joined to the source in an acceptable amount of click"} /-->
 
 <!-- wp:heading {"level":3} -->
