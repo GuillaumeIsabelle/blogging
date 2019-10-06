@@ -26,3 +26,13 @@ post_date: 2019-10-06 11:21:16
 <!-- wp:image {"id":568} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-1.png" alt="" class="wp-image-568" /><figcaption> connect Kopernio with your library subscriptions to continue enjoying one-click PDF access off campus </figcaption></figure> <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
+ISSSUE Erreur HTTP 500.19 - Internal Server Error
+
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":570} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image-2.png" alt="" class="wp-image-570" /></figure> <!-- /wp:image -->
