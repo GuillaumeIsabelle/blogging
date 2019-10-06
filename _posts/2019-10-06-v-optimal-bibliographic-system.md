@@ -9,3 +9,8 @@ permalink: >
 published: true
 post_date: 2019-10-06 11:21:16
 ---
+<!-- wp:image --><figure class="wp-block-image">
+
+![][1]</figure> <!-- /wp:image -->
+
+ [1]: blob:http://guillaumeisabelle.com/73df398b-0073-4a68-bf96-d64414c01879
