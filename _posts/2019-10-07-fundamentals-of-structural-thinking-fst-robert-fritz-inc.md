@@ -35,12 +35,12 @@ The course content:
 
 <!-- /wp:list -->
 
- 
-
-Source: *[Fundamentals of Structural Thinking (FST) – Robert Fritz Inc.][1]*
-
 <!-- wp:shortcode --> [zotpress items="{180474:P4SMUKA3}" style="apa"] 
 
 <!-- /wp:shortcode -->
+
+
+
+Source: *[Fundamentals of Structural Thinking (FST) – Robert Fritz Inc.][1]*
 
  [1]: https://www.robertfritz.com/wp/programs/fundamentals-of-structural-thinking-fst/
