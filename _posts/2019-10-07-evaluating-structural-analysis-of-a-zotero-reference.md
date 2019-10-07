@@ -103,3 +103,7 @@ post_date: 2019-10-07 05:41:20
 </table>
 
 <!-- /wp:table -->
+
+<!-- wp:shortcode --> [zotpress items="{180474:EGKW57AA}" style="apa"] 
+
+<!-- /wp:shortcode -->
