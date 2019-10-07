@@ -11,6 +11,36 @@ permalink: >
 published: true
 post_date: 2019-10-07 05:50:08
 ---
-> The course content: Structural Consulting, a skill used extensively in all aspects of coaching and consulting Structural Tension Charting Picturing Skills The Creative Process for Personal and Organizational use Viewing an uncut video of a personal session with Rosalind Fritz Learning how to think structurally rather than situationally Digital Decision Making Defining an Organization’s Structure Digital Business Analysis How structure works within organizations and personally How to work with the structure Source: *[Fundamentals of Structural Thinking (FST) – Robert Fritz Inc.][1]*
+<!-- wp:paragraph -->
+
+The course content:
+
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+
+*   Structural Consulting, a skill used extensively in all aspects of coaching and consulting
+*   Structural Tension Charting
+*   Picturing Skills
+*   The Creative Process for Personal and Organizational use
+*   Viewing an uncut video of a personal session with Rosalind Fritz
+*   Learning how to think structurally rather than situationally
+*   Digital Decision Making
+*   Defining an Organization’s Structure
+*   Digital Business Analysis
+*   How structure works within organizations and personally
+*   How to work with the structures you uncover
+*   How to change the underlying structure
+*   How to move from oscillation to advancement
+
+<!-- /wp:list -->
+
+ 
+
+Source: *[Fundamentals of Structural Thinking (FST) – Robert Fritz Inc.][1]*
+
+<!-- wp:shortcode --> [zotpress items="{180474:P4SMUKA3}" style="apa"] 
+
+<!-- /wp:shortcode -->
 
  [1]: https://www.robertfritz.com/wp/programs/fundamentals-of-structural-thinking-fst/
