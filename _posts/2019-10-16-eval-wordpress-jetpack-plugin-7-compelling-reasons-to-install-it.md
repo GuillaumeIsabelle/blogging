@@ -41,6 +41,10 @@ Source: *[WordPress Jetpack Plugin: 7 Compelling Reasons to Install It][1]*
 
 <!-- /wp:shortcode -->
 
+<!-- wp:shortcode --> [zotpressInText item="{180474:Z4DBTQG2,1}"] 
+
+<!-- /wp:shortcode -->
+
 <!-- wp:heading {"level":3} -->
 
 ### Site Loading (Photon) Reference
