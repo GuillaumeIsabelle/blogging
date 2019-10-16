@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2019-10-16 13:28:38
 ---
-<!-- wp:shortcode --> [zotpress tag="siggraph+rendering"] 
+<!-- wp:shortcode --> [zotpress tag="siggraph,rendering"] 
 
 <!-- /wp:shortcode -->
