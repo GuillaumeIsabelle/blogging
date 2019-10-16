@@ -31,7 +31,23 @@ To recap the benefits we’ve covered today, Jetpack enables:
 
 Source: *[WordPress Jetpack Plugin: 7 Compelling Reasons to Install It][1]*
 
+<!-- wp:heading {"level":3} -->
+
+### Jetpack features references
+
+<!-- /wp:heading -->
+
 <!-- wp:shortcode --> [zotpress items="{180474:Z4DBTQG2}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes"] 
+
+<!-- /wp:shortcode -->
+
+<!-- wp:heading {"level":3} -->
+
+### Site Loading (Photon) Reference
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [zotpress items="{180474:7LBS3YGV}" style="apa" showimage="yes" download="yes" abstract="yes" notes="yes" title="yes"] 
 
 <!-- /wp:shortcode -->
 
