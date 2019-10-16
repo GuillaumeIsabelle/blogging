@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/10/16/wordpress-jetpack-plugin-7-compelling-reasons-to-install-it/
+  http://guillaumeisabelle.com/blogging/2019/10/16/eval-wordpress-jetpack-plugin-7-compelling-reasons-to-install-it/
 published: true
 post_date: 2019-10-16 12:56:18
 ---
