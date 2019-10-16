@@ -15,6 +15,10 @@ post_date: 2019-10-16 08:58:35
 
 Source: *[RJ Quickcharts – WordPress plugin | WordPress.org][1]*
 
+<!-- wp:image --><figure class="wp-block-image">
+
+![][2]</figure> <!-- /wp:image -->
+
 <!-- wp:heading -->
 
 ## Installation {#installation-header}
@@ -31,3 +35,4 @@ Source: *[RJ Quickcharts – WordPress plugin | WordPress.org][1]*
 <!-- /wp:list -->
 
  [1]: https://wordpress.org/plugins/rj-quickcharts/
+ [2]: https://i.pinimg.com/originals/ff/43/b7/ff43b7f0c01560c99cabb43adfb50030.png
