@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2019-10-17 08:11:14
 ---
-<!-- wp:shortcode --> [zotpress tag="evaluating"] 
+<!-- wp:shortcode --> [zotpress tag="evaluating" notes="true"] 
 
 <!-- /wp:shortcode -->
