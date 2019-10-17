@@ -14,4 +14,8 @@ post_date: 2019-10-17 08:09:05
 ---
 Source: *[FooGallery – Image Gallery WordPress Plugin – WordPress plugin | WordPress.org][1]*
 
+<!-- wp:shortcode --> [zotpress tag="wpapp-gallery"s] 
+
+<!-- /wp:shortcode -->
+
  [1]: https://wordpress.org/plugins/foogallery/
