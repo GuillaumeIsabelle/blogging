@@ -42,7 +42,7 @@ Installing...
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/09/image-6-1024x486.png" alt="" class="wp-image-384" /><figcaption>Last step Styling...  
 --@STCObservation You can have multiple Zotero account</figcaption></figure> <!-- /wp:image -->
 
-<!-- wp:shortcode --> [zotpress tag="bibliography" abstract="yes"] 
+<!-- wp:shortcode --> [zotpress tag="bibliography" abstract="yes" note="yes"] 
 
 <!-- /wp:shortcode -->
 
