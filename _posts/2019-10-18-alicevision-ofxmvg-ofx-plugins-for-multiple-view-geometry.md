@@ -9,5 +9,14 @@ permalink: >
 published: true
 post_date: 2019-10-18 17:54:48
 ---
-[embed]https://github.com/alicevision/ofxMVG[/embed] 
+<!-- wp:block-lab/stc-vision-block {"vision":"What is OFX plugins for Multiple View Geometry?","dtdue":"200301"} /-->
+
+[embed]https://github.com/alicevision/ofxMVG[/embed]
+
 > OFX plugins for Multiple View Geometry
+
+<!-- wp:paragraph -->
+
+OFX plugins for Multiple View Geometry 
+
+<!-- /wp:paragraph -->
