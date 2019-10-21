@@ -25,4 +25,12 @@ Source: *[HQueue Render][1]*
 
 <!-- /wp:shortcode -->
 
+<!-- wp:core-embed/wordpress {"url":"http://guillaumeisabelle.com/blogging/rendering-references/","type":"wp-embed","providerNameSlug":"guillaume-isabelle-039-s-blog","className":""} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-guillaume-isabelle-039-s-blog">
+
+<div class="wp-block-embed__wrapper">
+  http://guillaumeisabelle.com/blogging/rendering-references/
+</div></figure> 
+
+<!-- /wp:core-embed/wordpress -->
+
  [1]: https://www.sidefx.com/docs/houdini/nodes/out/hq_render.html
