@@ -13,16 +13,16 @@ post_date: 2019-10-21 04:57:19
 
 Source: *[HQueue Render][1]*
 
- 
 
-<!-- wp:shortcode --> [zotpress tags="houdini,rendering" abstract="true" notes="true"] 
+
+<!-- wp:heading -->
+
+## Houdini & Rendering references
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [zotpress tags="houdini,distributed-rendering" abstract="true" notes="true"] 
 
 <!-- /wp:shortcode -->
-
-<!-- wp:paragraph -->
-
-
-
-<!-- /wp:paragraph -->
 
  [1]: https://www.sidefx.com/docs/houdini/nodes/out/hq_render.html
