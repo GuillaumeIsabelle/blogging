@@ -1,6 +1,6 @@
 ---
 ID: 776
-post_title: 'JGWill::HQueue Render &#8211; Houdini Distributed  Rendering'
+post_title: 'HQueue Render &#8211; Houdini Distributed  Rendering'
 author: gicomadmin
 post_excerpt: How do you render in houdini?
 layout: post
@@ -25,7 +25,7 @@ Source: *[HQueue Render][1]*
 
 <!-- /wp:shortcode -->
 
-<!-- wp:core-embed/wordpress {"url":"http://guillaumeisabelle.com/blogging/rendering-references/","type":"wp-embed","providerNameSlug":"guillaume-isabelle-039-s-blog","className":""} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-guillaume-isabelle-039-s-blog">
+<!-- wp:core-embed/wordpress {"url":"http://guillaumeisabelle.com/blogging/rendering-references/","type":"wp-embed","providerNameSlug":"guillaume-isabelle-039-s-blog"} --><figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-guillaume-isabelle-039-s-blog">
 
 <div class="wp-block-embed__wrapper">
   http://guillaumeisabelle.com/blogging/rendering-references/
