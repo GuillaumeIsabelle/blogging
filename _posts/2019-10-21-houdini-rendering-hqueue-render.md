@@ -1,6 +1,6 @@
 ---
 ID: 776
-post_title: 'HQueue Render &#8211; Houdini Distributed  Rendering'
+post_title: 'JGWill::HQueue Render &#8211; Houdini Distributed  Rendering'
 author: gicomadmin
 post_excerpt: How do you render in houdini?
 layout: post
