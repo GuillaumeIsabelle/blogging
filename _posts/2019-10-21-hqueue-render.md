@@ -15,7 +15,7 @@ Source: *[HQueue Render][1]*
 
  
 
-<!-- wp:shortcode --> [zotpress tags="houdini,rendering"] 
+<!-- wp:shortcode --> [zotpress tags="houdini,rendering" abstract="true" notes="true"] 
 
 <!-- /wp:shortcode -->
 
