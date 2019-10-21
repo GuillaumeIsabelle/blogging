@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/10/21/hqueue-render/
+  http://guillaumeisabelle.com/blogging/2019/10/21/houdini-rendering-hqueue-render/
 published: true
 post_date: 2019-10-21 04:57:19
 ---
