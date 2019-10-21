@@ -2,7 +2,7 @@
 ID: 564
 post_title: @v-Optimal-Bibliographic-System
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "EndNote was used but the principle is the same in each system.  Now I am using Zotero and Google Docs has a citation connector for Zotero that I found acceptable."
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/10/06/v-optimal-bibliographic-system/
