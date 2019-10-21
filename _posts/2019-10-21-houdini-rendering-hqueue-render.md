@@ -2,7 +2,7 @@
 ID: 776
 post_title: 'HQueue Render &#8211; Houdini Distributed  Rendering'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: How do you render in houdini?
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/10/21/houdini-rendering-hqueue-render/
