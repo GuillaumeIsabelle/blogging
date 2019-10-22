@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2019-10-21 23:19:51
 ---
+<!-- wp:paragraph -->
+
+Presentation of web technology related to 3 dimentional space.
+
+<!-- /wp:paragraph -->
+
 <!-- wp:shortcode --> [zotpress tags="3D Web Technology"] 
 
 <!-- /wp:shortcode -->
