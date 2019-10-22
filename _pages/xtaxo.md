@@ -9,10 +9,6 @@ permalink: >
 published: true
 post_date: 2019-10-21 22:57:16
 ---
-<!-- wp:tag-cloud {"showTagCounts":true} /-->
-
-<!-- wp:tag-cloud {"taxonomy":"stctag","showTagCounts":true} /-->
-
 <!-- wp:heading -->
 
 ## Try out the Grid system
@@ -31,6 +27,16 @@ post_date: 2019-10-21 22:57:16
 
 <!-- wp:heading -->
 
+## 3D Web Technology
+
+<!-- /wp:heading -->
+
+<!-- wp:shortcode --> [the-post-grid id="820" title="3D Web Technology"] 
+
+<!-- /wp:shortcode -->
+
+<!-- wp:heading -->
+
 ## Siggraph/Rendering
 
 <!-- /wp:heading -->
@@ -39,12 +45,6 @@ post_date: 2019-10-21 22:57:16
 
 <!-- /wp:shortcode -->
 
-<!-- wp:heading -->
+<!-- wp:tag-cloud {"showTagCounts":true} /-->
 
-## 3D Web Technology
-
-<!-- /wp:heading -->
-
-<!-- wp:shortcode --> [the-post-grid id="820" title="3D Web Technology"] 
-
-<!-- /wp:shortcode -->
+<!-- wp:tag-cloud {"taxonomy":"stctag","showTagCounts":true} /-->
