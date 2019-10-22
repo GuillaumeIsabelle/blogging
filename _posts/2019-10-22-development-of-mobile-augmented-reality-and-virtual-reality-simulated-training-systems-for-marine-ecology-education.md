@@ -52,6 +52,6 @@ permalink: >
 published: true
 post_date: 2019-10-22 05:21:41
 ---
-<!-- wp:shortcode --> [zotpress items="{180474:XE8JRC58}" style="apa"] 
+<!-- wp:shortcode --> [zotpress items="{180474:XE8JRC58}" style="apa" abstract="false"] 
 
 <!-- /wp:shortcode -->
