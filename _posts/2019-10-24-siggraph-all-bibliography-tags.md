@@ -12,3 +12,15 @@ post_date: 2019-10-24 16:07:20
 <!-- wp:shortcode --> [zotpress tags="siggraph"] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+
+Topic extracted from Abduction:
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Collaborative Virtual Environments
+
+<!-- /wp:paragraph -->
