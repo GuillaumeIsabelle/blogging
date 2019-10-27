@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpussiggraphaction-steps/
+  http://guillaumeisabelle.com/blogging/corpus/corpussiggraphaction-steps/
 published: true
 post_date: 2019-10-27 16:23:05
 ---
