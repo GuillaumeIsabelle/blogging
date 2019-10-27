@@ -31,6 +31,6 @@ post_date: 2019-10-27 15:42:39
 
 <!-- wp:paragraph -->
 
-[zotpress tags="siggraph" tags="HCI,Human-centered computing" abstract="true"]  
+[zotpress tags="siggraph" tags="Human-centered computing" abstract="true"]  
 
 <!-- /wp:paragraph -->
