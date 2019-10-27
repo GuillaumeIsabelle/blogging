@@ -9,3 +9,10 @@ permalink: >
 published: true
 post_date: 2019-10-27 16:21:17
 ---
+<!-- wp:block-lab/stc-vision-block {"vision":"Presenting Siggraph Corpus By Disciplines","dtdue":"191029"} /-->
+
+<!-- wp:heading -->
+
+## Identify Disciplines:
+
+<!-- /wp:heading -->
