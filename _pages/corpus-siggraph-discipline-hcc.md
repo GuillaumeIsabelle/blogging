@@ -11,6 +11,14 @@ permalink: >
 published: true
 post_date: 2019-10-27 16:11:46
 ---
+<!-- wp:paragraph {"customBackgroundColor":"#86d7fa"} -->
+
+<p style="background-color:#86d7fa" class="has-background">
+  so far : 26 Conferences
+</p>
+
+<!-- /wp:paragraph -->
+
 <!-- wp:block-lab/stc-vision-block {"vision":"Present Discipline::Human-centered computing"} /-->
 
 <!-- wp:heading -->
