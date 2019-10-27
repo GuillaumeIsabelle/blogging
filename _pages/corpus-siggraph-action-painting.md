@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpus-siggraph-tagged-painting/
+  http://guillaumeisabelle.com/blogging/corpus-siggraph-action-painting/
 published: true
 post_date: 2019-10-27 15:42:42
 ---
