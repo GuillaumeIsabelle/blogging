@@ -26,12 +26,15 @@ post_date: 2019-10-27 16:21:17
       </td>
       
       <td>
+        <strong>Acron</strong>
       </td>
       
       <td>
+        <strong>Discipline</strong>
       </td>
       
       <td>
+        <strong>Co</strong>
       </td>
       
       <td>
@@ -70,6 +73,7 @@ post_date: 2019-10-27 16:21:17
       </td>
       
       <td>
+        26
       </td>
       
       <td>
