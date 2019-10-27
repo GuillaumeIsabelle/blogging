@@ -31,7 +31,7 @@ post_date: 2019-10-27 16:11:46
 
 <!-- /wp:shortcode -->
 
-<!-- wp:shortcode --> [zotpress tags="siggraph" tags="Human-centered computing" abstract="true"] 
+<!-- wp:shortcode --> [zotpress tags="siggraph" tags="Human-centered computing" abstract="false"] 
 
 <!-- /wp:shortcode -->
 
