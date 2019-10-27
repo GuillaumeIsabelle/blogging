@@ -5,7 +5,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpus-siggraph-discipline-hci/
+  http://guillaumeisabelle.com/blogging/corpus/corpus-siggraph-disciplines/corpus-siggraph-discipline-hci/
 published: true
 post_date: 2019-10-27 15:42:39
 ---
