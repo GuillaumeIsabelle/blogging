@@ -1,13 +1,13 @@
 ---
 ID: 916
 post_title: >
-  corpus::Siggraph::Discipline::Human-centered
+  Siggraph::Discipline::Human-centered
   computing
 author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpussiggraphdisciplinehuman-centered-computing/
+  http://guillaumeisabelle.com/blogging/corpus-siggraph-discipline-hcc/
 published: true
 post_date: 2019-10-27 16:11:46
 ---
