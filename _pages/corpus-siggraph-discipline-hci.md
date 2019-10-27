@@ -1,11 +1,11 @@
 ---
 ID: 882
-post_title: corpus::siggraph::tagged::HCI
+post_title: Corpus::Siggraph::Discipline::HCI
 author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpussiggraphtaggedhci/
+  http://guillaumeisabelle.com/blogging/corpus-siggraph-discipline-hci/
 published: true
 post_date: 2019-10-27 15:42:39
 ---
