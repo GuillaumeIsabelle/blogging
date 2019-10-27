@@ -5,10 +5,10 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpussiggraphtaggedmodeling/
+  http://guillaumeisabelle.com/blogging/corpus-siggraph-tagged-modeling/
 published: true
 post_date: 2019-10-27 15:42:33
 ---
-<!-- wp:shortcode --> [zotpress tags="siggraph,modeling" abstract="true"] 
+<!-- wp:shortcode --> [zotpress tags="siggraph&modeling" abstract="true"] 
 
 <!-- /wp:shortcode -->
