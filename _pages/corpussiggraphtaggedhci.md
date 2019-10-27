@@ -22,3 +22,9 @@ post_date: 2019-10-27 15:42:39
 <!-- wp:shortcode --> [zotpress items="{180474:VG56RSYS}" style="apa"] 
 
 <!-- /wp:shortcode -->
+
+<!-- wp:paragraph -->
+
+[zotpress tags="siggraph" tags="HCI" abstract="true"]  
+
+<!-- /wp:paragraph -->
