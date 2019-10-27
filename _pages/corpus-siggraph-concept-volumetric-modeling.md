@@ -7,7 +7,7 @@ author: gicomadmin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://guillaumeisabelle.com/blogging/corpus-siggraph-concept-volumetric-modeling/
+  http://guillaumeisabelle.com/blogging/corpus-siggraph/corpus-siggraph-concept-volumetric-modeling/
 published: true
 post_date: 2019-10-27 15:36:19
 ---
