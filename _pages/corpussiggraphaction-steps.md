@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2019-10-27 16:23:05
 ---
+<!-- wp:block-lab/stc-vision-block {"vision":"Conferences are presented by their action"} /-->
