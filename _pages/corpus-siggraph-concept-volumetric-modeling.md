@@ -17,6 +17,6 @@ post_date: 2019-10-27 15:36:19
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress tags="siggraph,volumetric modeling" abstract="true"] 
+<!-- wp:shortcode --> [zotpress tags="volumetric modeling" abstract="true"] 
 
 <!-- /wp:shortcode -->
