@@ -1,6 +1,6 @@
 ---
 ID: 931
-post_title: Corpus::Siggraph::Action Steps
+post_title: Siggraph by Action Steps
 author: gicomadmin
 post_excerpt: ""
 layout: page
