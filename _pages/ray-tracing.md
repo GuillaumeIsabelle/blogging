@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2019-10-28 07:58:13
 ---
+<!-- wp:image {"id":978} --><figure class="wp-block-image">
+
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/10/image.jpeg" alt="" class="wp-image-978" /></figure> <!-- /wp:image -->
+
 <!-- wp:block {"ref":975} /-->
 
 <!-- wp:quote -->
