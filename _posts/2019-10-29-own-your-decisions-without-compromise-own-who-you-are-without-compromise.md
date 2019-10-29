@@ -2,7 +2,7 @@
 ID: 986
 post_title: >
   Own your decisions without Compromise,
-  Own who you are without Compromise
+  Own who you are without Apology
 author: gicomadmin
 post_excerpt: ""
 layout: post
