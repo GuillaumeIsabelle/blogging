@@ -2,10 +2,10 @@
 ID: 993
 post_title: PDG | SideFX
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: Managing pipelines for film
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/10/31/pdg-sidefx/
+  http://guillaumeisabelle.com/blogging/2019/10/31/sidefx-pdg-sidefx/
 published: true
 post_date: 2019-10-31 11:18:23
 ---
