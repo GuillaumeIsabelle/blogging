@@ -9,4 +9,10 @@ permalink: >
 published: true
 post_date: 2019-11-09 08:37:04
 ---
+<!-- wp:heading {"level":3} -->
+
+### Interesting description of all the generated network of a fluid simulation. Helpful to grasp the different steps thru which the creation of a full fluid has to pass through to get done.
+
+<!-- /wp:heading -->
+
 [embed]https://www.youtube.com/watch?v=ci3rGtN-RQU[/embed]
