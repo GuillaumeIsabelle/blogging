@@ -15,4 +15,11 @@ post_date: 2019-11-09 08:37:04
 
 <!-- /wp:heading -->
 
+<!-- wp:list -->
+
+*   You collect result of another node (and ex. you apply a shader to it)
+*   
+
+<!-- /wp:list -->
+
 [embed]https://www.youtube.com/watch?v=ci3rGtN-RQU[/embed]
