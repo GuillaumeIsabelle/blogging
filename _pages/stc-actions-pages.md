@@ -10,3 +10,7 @@ published: true
 post_date: 2019-11-10 23:43:16
 ---
 <!-- wp:tag-cloud {"taxonomy":"stcaction"} /-->
+
+<!-- wp:tag-cloud {"taxonomy":"stctag"} /-->
+
+<!-- wp:tag-cloud /-->
