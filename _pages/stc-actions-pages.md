@@ -1,6 +1,6 @@
 ---
 ID: 1019
-post_title: STC Actions Pages
+post_title: STC Actions Pages and Tags
 author: gicomadmin
 post_excerpt: ""
 layout: page
