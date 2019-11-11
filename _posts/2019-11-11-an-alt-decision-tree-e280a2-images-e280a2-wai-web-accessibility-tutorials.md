@@ -14,6 +14,12 @@ post_date: 2019-11-11 00:08:35
 
 Source: *[An alt Decision Tree • Images • WAI Web Accessibility Tutorials][1]*
 
+<!-- wp:heading {"level":4} -->
+
+#### A decision tree covers cases
+
+<!-- /wp:heading -->
+
 <!-- wp:image {"id":1027} --><figure class="wp-block-image">
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/11/image.png" alt="Decision tree represented in a table with question, yes/no direction" class="wp-image-1027" /><figcaption>Decision tree represented in a table with question, yes/no direction</figcaption></figure> <!-- /wp:image -->
