@@ -16,6 +16,6 @@ Source: *[An alt Decision Tree • Images • WAI Web Accessibility Tutorials][1
 
 <!-- wp:image {"id":1027} --><figure class="wp-block-image">
 
-<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/11/image.png" alt="" class="wp-image-1027" /><figcaption>Decision tree represented in a table with question, yes/no direction</figcaption></figure> <!-- /wp:image -->
+<img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/11/image.png" alt="Decision tree represented in a table with question, yes/no direction" class="wp-image-1027" /><figcaption>Decision tree represented in a table with question, yes/no direction</figcaption></figure> <!-- /wp:image -->
 
  [1]: https://www.w3.org/WAI/tutorials/images/decision-tree/
