@@ -1,11 +1,11 @@
 ---
 ID: 1039
-post_title: 'Classification :: A Companion to Digital Humanities'
+post_title: 'Classification ::  avoid cross-classification'
 author: gicomadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2019/11/15/classification-a-companion-to-digital-humanities/
+  http://guillaumeisabelle.com/blogging/2019/11/15/avoid-cross-classification/
 published: true
 post_date: 2019-11-15 16:26:00
 ---
