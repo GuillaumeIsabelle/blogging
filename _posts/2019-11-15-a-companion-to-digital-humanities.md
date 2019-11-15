@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2019-11-15 16:26:00
 ---
-<!-- wp:quote -->
+<!-- wp:quote {"className":"is-style-large"} -->
 
-<blockquote class="wp-block-quote">
+<blockquote class="wp-block-quote is-style-large">
   <p>
     The first of these is to avoid <em>cross-classification:</em> a one-dimensional classification should normally depend on the value of a single characteristic of the object classified, should provide for discrete (non-overlapping) values, and should allow for all values which will be encountered
   </p>
