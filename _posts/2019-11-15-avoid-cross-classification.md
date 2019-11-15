@@ -27,4 +27,16 @@ post_date: 2019-11-15 16:26:00
 
 Source: *[A Companion to Digital Humanities][1]*
 
+<!-- wp:paragraph -->
+
+http://guillaumeisabelle.com/nad-previz/cross-classification-article
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
  [1]: http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-2&toc.depth=1&toc.id=ss1-3-2&brand=default
