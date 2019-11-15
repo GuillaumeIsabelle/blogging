@@ -23,11 +23,29 @@ En relation a la these d'un de mes profs:
 
 <img src="http://guillaumeisabelle.com/blogging/wp-content/uploads/sites/10/2019/11/image-1.png" alt="" class="wp-image-1052" /></figure> <!-- /wp:image -->
 
-<!-- wp:paragraph -->
+<!-- wp:separator -->
 
-epistemologie
+<hr class="wp-block-separator" />
 
-<!-- /wp:paragraph -->
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## L'épistémologie
+
+<!-- /wp:heading -->
+
+<!-- wp:quote -->
+
+<blockquote class="wp-block-quote">
+  <p>
+    L'<strong>épistémologie</strong> (du grec ancien ἐπιστήμη / epistếmê « connaissance vraie, science » et λόγος / lógos « discours ») peut désigner deux concepts : dans le monde francophone : l'étude critique des sciences et de la connaissance scientifique ; dans le monde anglo-saxon : l'étude de la connaissance en général.
+  </p>
+  
+  <cite>wikipedia</cite>
+</blockquote>
+
+<!-- /wp:quote -->
 
 <!-- wp:shortcode --> [zotpress tags="epistemologie.def" abstract="yes" notes="yes"] 
 
