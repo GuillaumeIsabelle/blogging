@@ -27,15 +27,27 @@ post_date: 2019-11-15 16:26:00
 
 Source: *[A Companion to Digital Humanities][1]*
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+
+## Further steps to this post
+
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 
-http://guillaumeisabelle.com/nad-previz/cross-classification-article
+Writing about cross-classification : http://guillaumeisabelle.com/r/article/cross-classification
 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
-
+<http://guillaumeisabelle.com/r/article/cross-classification>
 
 <!-- /wp:paragraph -->
 
