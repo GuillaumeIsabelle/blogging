@@ -2,7 +2,7 @@
 ID: 1039
 post_title: 'Classification ::  avoid cross-classification'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "Cross classification is a common issue I end up being a victim of.  In this article, I want to expose that problematic and how I reoriented my classification strategies in order to avoid those and even more than just than, show up the innovation I've created and who transcend and dominates the problems of cross-classification"
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/11/15/avoid-cross-classification/
