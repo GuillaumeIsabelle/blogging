@@ -2,7 +2,12 @@
 ID: 1078
 post_title: Synthesis Information
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  A synthesis is a written discussion that
+  draws on one or more sources. It follows
+  that your ability to write syntheses
+  depends on your ability to infer
+  relationships among sources
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/11/16/synthesis-information/
