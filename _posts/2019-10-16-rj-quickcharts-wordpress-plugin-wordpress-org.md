@@ -21,6 +21,18 @@ Source: *[RJ Quickcharts – WordPress plugin | WordPress.org][1]*
 
 <!-- wp:heading -->
 
+## Research question
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+@q can we feed that on a dynamic Data source ? (Such as MySQL or an online CSV
+
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+
 ## Installation {#installation-header}
 
 <!-- /wp:heading -->
