@@ -29,6 +29,12 @@ Here is one Block plugin among others you can find in the [references ][1]
 
 <!-- /wp:separator -->
 
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":3} -->
 
 ### Experimentation no 1 - Atomic Blocks
