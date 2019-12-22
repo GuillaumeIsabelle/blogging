@@ -39,9 +39,45 @@ This sketch is used to make an Arduino that has Bluetooth Low Energy (BLE) capab
 
 <!-- wp:paragraph -->
 
-123456789
+
 
 <!-- /wp:paragraph -->
+
+<!-- wp:more -->
+
+<!--more-->
+
+<!-- /wp:more -->
+
+<!-- wp:heading -->
+
+## Concepts
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+`[acf field="{concepts}"]`
+
+<!-- /wp:paragraph -->
+
+<!-- wp:atomic-blocks/ab-notice {"noticeTitle":"Above I am expecting the custom field \u0022concept\u0022 to be displayed"} -->
+
+<div style="color:#32373c;background-color:#00d1b2" class="wp-block-atomic-blocks-ab-notice ab-font-size-18 ab-block-notice" data-id="435bdb">
+  <div class="ab-notice-title" style="color:#fff">
+    <p>
+      Above I am expecting the custom field "concept" to be displayed
+    </p>
+  </div>
+  
+  <div class="ab-notice-text" style="border-color:#00d1b2">
+    <p>
+      The goal is that each post I create have a meta-system I can use to scientifically and creatively describe my observation, concepts, issues, methodologies, intentions...
+    </p>
+  </div>
+</div>
+
+<!-- /wp:atomic-blocks/ab-notice -->
 
  [1]: https://sciencejournal.withgoogle.com/developers/
  [2]: https://play.google.com/store/apps/details?id=com.google.android.apps.forscience.whistlepunk
