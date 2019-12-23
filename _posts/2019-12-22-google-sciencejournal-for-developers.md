@@ -9,13 +9,20 @@ permalink: >
 published: true
 post_date: 2019-12-22 14:58:45
 ---
+<!-- wp:list -->
+
+*   [screenshots][1]
+*   
+
+<!-- /wp:list -->
+
 https://github.com/guillaumeisabelleevaluating/science-journal-arduino
 
-Source: *[For Developers][1]*
+Source: *[For Developers][2]*
 
 <!-- wp:paragraph -->
 
-[Science Journal][2] allows you to gather data from the world around you. It uses sensors to measure your environment, like light and sound, so you can graph your data, record your experiments, and organize your questions and ideas. It's the lab notebook you always have with you.
+[Science Journal][3] allows you to gather data from the world around you. It uses sensors to measure your environment, like light and sound, so you can graph your data, record your experiments, and organize your questions and ideas. It's the lab notebook you always have with you.
 
 <!-- /wp:paragraph -->
 
@@ -24,6 +31,36 @@ Source: *[For Developers][1]*
 This sketch is used to make an Arduino that has Bluetooth Low Energy (BLE) capabilities (such as the RedBear BLEND board and the Arduino 101) send data from its pins to Science Journal. The arduinoUno firmware is provided for reference, but does not work because of limited RAM on the Uno.
 
 <!-- /wp:paragraph -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="screenshots">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Google ScienceJournal Screenshots
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/i8VWmhh.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/i8VWmhh.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:heading -->
+
+## 
+
+<!-- /wp:heading -->
 
 <!-- wp:separator -->
 
@@ -79,5 +116,6 @@ This sketch is used to make an Arduino that has Bluetooth Low Energy (BLE) capab
 
 <!-- /wp:atomic-blocks/ab-notice -->
 
- [1]: https://sciencejournal.withgoogle.com/developers/
- [2]: https://play.google.com/store/apps/details?id=com.google.android.apps.forscience.whistlepunk
+ [1]: #screenshots
+ [2]: https://sciencejournal.withgoogle.com/developers/
+ [3]: https://play.google.com/store/apps/details?id=com.google.android.apps.forscience.whistlepunk
