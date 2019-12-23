@@ -12,13 +12,9 @@ post_date: 2019-12-22 14:58:45
 <!-- wp:list -->
 
 *   [screenshots][1]
-*   
+*   [science-journal-arduino][2]
 
 <!-- /wp:list -->
-
-https://github.com/guillaumeisabelleevaluating/science-journal-arduino
-
-Source: *[For Developers][2]*
 
 <!-- wp:paragraph -->
 
@@ -31,6 +27,38 @@ Source: *[For Developers][2]*
 This sketch is used to make an Arduino that has Bluetooth Low Energy (BLE) capabilities (such as the RedBear BLEND board and the Arduino 101) send data from its pins to Science Journal. The arduinoUno firmware is provided for reference, but does not work because of limited RAM on the Uno.
 
 <!-- /wp:paragraph -->
+
+Source: *[For Developers][4]*
+
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group" id="science-journal-arduino">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Firmware
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+      <a href="https://github.com/guillaumeisabelleevaluating/science-journal-arduino">https://github.com/guillaumeisabelleevaluating/science-journal-arduino</a>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:group -->
 
 <!-- wp:group -->
 
@@ -117,5 +145,6 @@ This sketch is used to make an Arduino that has Bluetooth Low Energy (BLE) capab
 <!-- /wp:atomic-blocks/ab-notice -->
 
  [1]: #screenshots
- [2]: https://sciencejournal.withgoogle.com/developers/
+ [2]: #science-journal-arduino
  [3]: https://play.google.com/store/apps/details?id=com.google.android.apps.forscience.whistlepunk
+ [4]: https://sciencejournal.withgoogle.com/developers/
