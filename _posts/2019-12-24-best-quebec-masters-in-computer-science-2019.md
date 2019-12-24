@@ -17,6 +17,25 @@ post_date: 2019-12-24 13:05:16
 
 Source: *[Best Quebec Masters in Computer Science 2019+][1]*
 
+<!-- wp:heading -->
+
+## Questionning Computer Science Master Degree
+
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+
+**[METASYNT ][2]**  
+Anonymous. “10 Reasons to Ignore Computer Science Degrees.” CIO, July 30, 2018. <https://www.cio.com/article/3293010/10-reasons-to-ignore-computer-science-degrees.html>. 
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
+
 <!-- wp:more -->
 
 <!--more-->
@@ -53,3 +72,4 @@ Source: *[Best Quebec Masters in Computer Science 2019+][1]*
 <!-- /wp:group -->
 
  [1]: https://www.gradschools.com/masters/computer-science?in=quebec
+ [2]: #metasynt
