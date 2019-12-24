@@ -35,12 +35,18 @@ Source: *[Best Quebec Masters in Computer Science 2019+][1]*
     
     <!-- /wp:heading -->
     
-    <!-- wp:paragraph -->
+    <!-- wp:list -->
     
-    <p>
-    </p>
+    <ul>
+      <li>
+        In Montreal
+      </li>
+      <li>
+        ...
+      </li>
+    </ul>
     
-    <!-- /wp:paragraph -->
+    <!-- /wp:list -->
   </div>
 </div>
 
