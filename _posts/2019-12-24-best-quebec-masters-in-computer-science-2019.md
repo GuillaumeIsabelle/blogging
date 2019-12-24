@@ -27,6 +27,20 @@ Source: *[Best Quebec Masters in Computer Science 2019+][1]*
 
 <div class="wp-block-group" id="@STCGoal-Searching-for-Computer-Science-Field-of-study">
   <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      @STCGoal-Searching-for-Computer-Science-Field-of-study
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
   </div>
 </div>
 
