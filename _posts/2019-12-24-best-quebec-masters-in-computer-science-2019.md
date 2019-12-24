@@ -4,7 +4,9 @@ post_title: >
   Best Quebec Masters in Computer Science
   2019+
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: >
+  --@STCGoal Searching for Computer
+  Science Field of study
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2019/12/24/best-quebec-masters-in-computer-science-2019/
