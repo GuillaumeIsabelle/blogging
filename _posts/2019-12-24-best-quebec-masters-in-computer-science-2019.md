@@ -1,8 +1,6 @@
 ---
 ID: 1248
-post_title: >
-  Best Quebec Masters in Computer Science
-  2019+
+post_title: 'metaSynt: Best Quebec Masters in Computer Science 2019+'
 author: gicomadmin
 post_excerpt: >
   --@STCGoal Searching for Computer
