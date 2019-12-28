@@ -20,3 +20,15 @@ post_date: 2019-12-27 19:16:55
 What have I learned from the experimentation?
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Particle can be grouped and those groups can be the source of a new stream of particle.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
