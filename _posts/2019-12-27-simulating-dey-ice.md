@@ -14,3 +14,9 @@ post_date: 2019-12-27 19:16:55
 **POP Collision Behavior determines **
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+What have I learned from the experimentation?
+
+<!-- /wp:paragraph -->
