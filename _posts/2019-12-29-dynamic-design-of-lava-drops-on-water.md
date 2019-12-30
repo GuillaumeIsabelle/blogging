@@ -15,6 +15,13 @@ How is the collision becomes a component we ca use to generate another ? (Vapour
 
 <!-- /wp:paragraph -->
 
+<!-- wp:list -->
+
+*   There is POP Collision Behaviour.
+*   
+
+<!-- /wp:list -->
+
 <!-- wp:paragraph -->
 
 How is the collision can start the cooling down ?
