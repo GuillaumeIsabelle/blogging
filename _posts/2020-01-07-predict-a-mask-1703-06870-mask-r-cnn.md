@@ -25,8 +25,6 @@ Source: *[[1703.06870] Mask R-CNN][1]*
 
 <!-- /wp:heading -->
 
-<!-- wp:shortcode --> [zotpress tags="AI"] 
-
-<!-- /wp:shortcode -->
+<!-- wp:block {"ref":1461} /-->
 
  [1]: https://arxiv.org/abs/1703.06870
