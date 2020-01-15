@@ -11,6 +11,6 @@ post_date: 2020-01-13 19:13:35
 ---
 <!-- wp:paragraph -->
 
-http://lcpaquin.com/cartoRC/
+Cartographie de recherche-création : <http://lcpaquin.com/cartoRC/>
 
 <!-- /wp:paragraph -->
