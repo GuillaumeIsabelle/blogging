@@ -4,8 +4,7 @@ post_title: Sound of Raphael
 author: gicomadmin
 post_excerpt: ""
 layout: page
-permalink: >
-  http://guillaumeisabelle.com/blogging/sound-of-raphael/
+permalink: http://guillaumeisabelle.com/blogging/r/
 published: true
 post_date: 2020-01-25 12:13:08
 ---
