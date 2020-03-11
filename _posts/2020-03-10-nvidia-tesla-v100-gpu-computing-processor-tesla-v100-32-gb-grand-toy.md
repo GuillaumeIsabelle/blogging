@@ -2,7 +2,7 @@
 ID: 1710
 post_title: 'NVIDIA Tesla V100 &#8211; GPU computing processor &#8211; Tesla V100 &#8211; 32 GB | Grand &#038; Toy'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: 'Optimal Hardware - GPU aspect'
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2020/03/10/nvidia-tesla-v100-gpu-computing-processor-tesla-v100-32-gb-grand-toy/
