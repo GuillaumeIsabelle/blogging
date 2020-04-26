@@ -2,7 +2,7 @@
 ID: 1820
 post_title: 'Introduction &#8211; Vagrant by HashiCorp'
 author: gicomadmin
-post_excerpt: ""
+post_excerpt: "define and environment and vagrant will create it"
 layout: post
 permalink: >
   http://guillaumeisabelle.com/blogging/2020/04/26/introduction-vagrant-by-hashicorp/
