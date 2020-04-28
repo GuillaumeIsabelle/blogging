@@ -56,7 +56,7 @@ Source: *[Conventional Commits][1]*
         A commit body is free-form and MAY consist of any number of newline separated paragraphs.
       </li>
       <li>
-        One or more footers MAY be provided one blank line after the body. Each footer MUST consist of a word token, followed by either a <code>:&lt;space&gt;</code> or <code>&lt;space&gt;#</code> separator, followed by a string value (this is inspired by the <a href="https://git-scm.com/docs/git-interpret-trailers">git trailer convention</a>).
+        One or more footers MAY be provided one blank line after the body. Each footer MUST consist of a word token, followed by either a <code>:&lt;space></code> or <code>&lt;space>#</code> separator, followed by a string value (this is inspired by the <a href="https://git-scm.com/docs/git-interpret-trailers">git trailer convention</a>).
       </li>
       <li>
         A footer’s token MUST use <code>-</code> in place of whitespace characters, e.g., <code>Acked-by</code> (this helps differentiate the footer section from a multi-paragraph body). An exception is made for <code>BREAKING CHANGE</code>, which MAY also be used as a token.
@@ -71,7 +71,7 @@ Source: *[Conventional Commits][1]*
         If included as a footer, a breaking change MUST consist of the uppercase text BREAKING CHANGE, followed by a colon, space, and description, e.g., <em>BREAKING CHANGE: environment variables now take precedence over config files</em>.
       </li>
       <li>
-        If included in the type/scope prefix, breaking changes MUST be indicated by a <code>!</code> immediately before the <code>:</code>. If <code>!</code> is used, <code>BREAKING CHANGE:</code> MAY be ommitted from the footer section, and the commit description SHALL be used to describe the breaking change.
+        If included in the type/scope prefix, breaking changes MUST be indicated by a <code>!</code> immediately before the <code>:</code>. If <code>!</code> is used, <code>BREAKING CHANGE:</code> MAY be committed from the footer section, and the commit description SHALL be used to describe the breaking change.
       </li>
       <li>
         Types other than <code>feat</code> and <code>fix</code> MAY be used in your commit messages, e.g., <em>docs: updated ref docs.</em>
