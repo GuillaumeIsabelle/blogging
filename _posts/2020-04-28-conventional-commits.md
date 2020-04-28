@@ -90,4 +90,34 @@ Source: *[Conventional Commits][1]*
 
 <!-- /wp:atomic-blocks/ab-accordion -->
 
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":24,"accordionOpen":true} -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-24">
+  <details open><summary class="ab-accordion-title">Why Use Conventional Commits</summary><div class="ab-accordion-text">
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        Automatically generating CHANGELOGs.
+      </li>
+      <li>
+        Automatically determining a semantic version bump (based on the types of commits landed).
+      </li>
+      <li>
+        Communicating the nature of changes to teammates, the public, and other stakeholders.
+      </li>
+      <li>
+        Triggering build and publish processes.
+      </li>
+      <li>
+        Making it easier for people to contribute to your projects, by allowing them to explore a more structured commit history.
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
  [1]: https://www.conventionalcommits.org/en/v1.0.0/
