@@ -120,4 +120,60 @@ Source: *[Conventional Commits][1]*
 
 <!-- /wp:atomic-blocks/ab-accordion -->
 
+<!-- wp:atomic-blocks/ab-accordion {"accordionFontSize":21} -->
+
+<div class="wp-block-atomic-blocks-ab-accordion ab-block-accordion ab-font-size-21">
+  <details><summary class="ab-accordion-title">Common types according to</summary><div class="ab-accordion-text">
+    <!-- wp:paragraph -->
+    
+    <p>
+      Common types according to <a href="https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#type-enum">commitlint-config-conventional (based on the the Angular convention)</a> can be:
+    </p>
+    
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:list -->
+    
+    <ul>
+      <li>
+        build
+      </li>
+      <li>
+        ci
+      </li>
+      <li>
+        chore
+      </li>
+      <li>
+        docs
+      </li>
+      <li>
+        feat
+      </li>
+      <li>
+        fix
+      </li>
+      <li>
+        perf
+      </li>
+      <li>
+        refactor
+      </li>
+      <li>
+        revert
+      </li>
+      <li>
+        style
+      </li>
+      <li>
+        test
+      </li>
+    </ul>
+    
+    <!-- /wp:list -->
+  </div></details>
+</div>
+
+<!-- /wp:atomic-blocks/ab-accordion -->
+
  [1]: https://www.conventionalcommits.org/en/v1.0.0/
