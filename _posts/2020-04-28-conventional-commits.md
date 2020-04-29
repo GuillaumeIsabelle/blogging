@@ -11,7 +11,9 @@ post_date: 2020-04-28 14:38:54
 ---
 > Conventional Commits A specification for adding human and machine readable meaning to commit messages
 
-Source: *[Conventional Commits][1]*
+Source: *[Conventional Commits][1]  
+https://github.com/conventional-changelog/commitlint#what-is-commitlint  
+*
 
 <!-- wp:paragraph -->
 
