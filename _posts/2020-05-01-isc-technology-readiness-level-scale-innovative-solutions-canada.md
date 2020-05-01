@@ -9,7 +9,15 @@ permalink: >
 published: true
 post_date: 2020-05-01 19:21:36
 ---
-> ISC Technology Readiness Level Scale Technology Readiness Levels (TRL) describe the different stages of pre-commercial development. Find TRL 1 to 9 definitions, descriptions and examples below. Short Definition and Description: Stages of component(s)/subsystem(s) development, or overall system maturity description at each level, and benchmark measures of system performance capability. Examples of Activities: Generally occur when the technology is within the respective level. Typically, level activities oc
+> ISC Technology Readiness Level Scale Technology Readiness Levels (TRL) describe the different stages of pre-commercial development. Find TRL 1 to 9 definitions, descriptions and examples below.
+> 
+> Short** Definition **and** Description: **
+> 
+> Stages of component(s)/subsystem(s) development, or overall system maturity description at each level, and benchmark measures of system performance capability.
+> 
+> **Examples of Activities: **
+> 
+> Generally occur when the technology is within the respective level. Typically, level activities occur and are completed before to the start of the next level.  
 
 Source: *[ISC Technology Readiness Level Scale - Innovative Solutions Canada][1]*
 
