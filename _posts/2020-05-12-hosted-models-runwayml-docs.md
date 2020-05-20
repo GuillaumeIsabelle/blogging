@@ -9,6 +9,20 @@ permalink: >
 published: true
 post_date: 2020-05-12 21:48:56
 ---
-> Hosted Models Hosted Models allow you to create and deploy models as permanent URLs on the web. They provide you with a unique API endpoint that you can use to interact with them anytime, anywhere, without requiring RunwayML to be open! All RunwayML models can now be controlled and used over the internet as Hosted Models. This is useful for getting data in and out of RunwayML programmatically, integrating models with other tools and workflows, and providing control of models through scripting. Each Hosted Source: *[Hosted Models - RunwayML Docs][1]*
+<!-- wp:paragraph -->
 
- [1]: https://learn.runwayml.com/#/how-to/hosted-models
+Non voluptate qui irure ut deserunt velit ea et dolor non sit enim. Consectetur voluptate sunt id incididunt officia sunt occaecat. Ut minim est occaecat aliquip amet veniam nulla velit adipisicing consectetur ipsum. Consectetur ut fugiat incididunt aliquip laborum eiusmod proident aute cupidatat id cupidatat culpa sint. Quis ut fugiat et ex incididunt sit consectetur fugiat elit fugiat esse. Ut excepteur incididunt eu tempor sit occaecat cupidatat dolore laboris est dolor reprehenderit amet labore.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Laborum quis elit culpa in in adipisicing. Et dolor irure et id aute velit minim commodo ea excepteur qui. Exercitation incididunt aliqua cupidatat elit exercitation fugiat pariatur sit sit aliqua.
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Enim commodo amet et sint laboris ut dolore in aute officia fugiat dolore anim veniam. Magna anim nostrud amet culpa commodo ullamco quis. Veniam minim aliquip laborum cillum cillum. Laboris voluptate eiusmod sint pariatur culpa.
+
+<!-- /wp:paragraph -->
