@@ -173,4 +173,30 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- /wp:separator -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Références et Bibliographie
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:shortcode --> [zotpres tags="ref2005210132" notes=yes cite=yes abstract=no] 
+    
+    <!-- /wp:shortcode -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
