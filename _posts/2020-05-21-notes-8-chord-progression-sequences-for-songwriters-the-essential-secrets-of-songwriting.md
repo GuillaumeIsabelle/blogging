@@ -58,4 +58,28 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- /wp:list -->
 
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Charte de Guitare
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/CRulmYy.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/CRulmYy.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
