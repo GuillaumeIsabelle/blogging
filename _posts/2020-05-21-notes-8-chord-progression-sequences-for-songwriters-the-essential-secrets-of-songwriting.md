@@ -97,9 +97,23 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences1.mp3" loop preload="auto"></audio></figure> 
     
     <!-- /wp:audio -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/RsowTZO.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
   </div>
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
 
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
