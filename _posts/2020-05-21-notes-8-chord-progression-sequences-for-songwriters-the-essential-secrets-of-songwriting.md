@@ -12,6 +12,12 @@ permalink: >
 published: true
 post_date: 2020-05-21 01:46:04
 ---
+<!-- wp:paragraph -->
+
+See: <a href="#results" class="aioseop-link">Results</a>
+
+<!-- /wp:paragraph -->
+
 > I often tell songwriters that it’s very acceptable to use chord progressions that are quite predictable
 
 Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets of Songwriting][1]*
@@ -134,7 +140,7 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- wp:group -->
 
-<div class="wp-block-group">
+<div class="wp-block-group" id="results">
   <div class="wp-block-group__inner-container">
     <!-- wp:heading -->
     
