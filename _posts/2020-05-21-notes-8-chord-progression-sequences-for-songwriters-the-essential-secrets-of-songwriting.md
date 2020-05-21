@@ -94,7 +94,7 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     
     <!-- /wp:heading -->
     
-    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences1.mp3" loop preload="auto"></audio></figure> 
+    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences1.mp3" loop></audio></figure> 
     
     <!-- /wp:audio -->
     
@@ -151,6 +151,10 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     </h3>
     
     <!-- /wp:heading -->
+    
+    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences7.mp3" loop preload="auto"></audio></figure> 
+    
+    <!-- /wp:audio -->
     
     <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
