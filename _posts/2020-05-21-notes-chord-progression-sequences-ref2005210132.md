@@ -27,6 +27,66 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- /wp:more -->
 
+<!-- wp:group -->
+
+<div class="wp-block-group" id="results">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      <strong>THAT IS THE SEQUENCE I WANT</strong>
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:heading -->
+    
+    <h2>
+      C  G  Am  |Dm  Am  Bdim  |Em  C  Dm  |F  G  C
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences7.mp3" loop preload="auto"></audio></figure> 
+    
+    <!-- /wp:audio -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/RsowTZO.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      Charte de Guitare
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/OzZwc6f.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/OzZwc6f.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
 <!-- wp:heading -->
 
 ## Sequences starting from  2 chords:
@@ -70,30 +130,6 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     <!-- wp:heading -->
     
     <h2>
-      Charte de Guitare
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/CRulmYy.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-    
-    <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/CRulmYy.png
-    </div></figure> 
-    
-    <!-- /wp:core-embed/imgur -->
-  </div>
-</div>
-
-<!-- /wp:group -->
-
-<!-- wp:group -->
-
-<div class="wp-block-group">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
       C Dm| Bdim C|Am Bdim|G C
     </h2>
     
@@ -117,7 +153,7 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- wp:group -->
 
-<div class="wp-block-group">
+<div class="wp-block-group" id="chord-Bb">
   <div class="wp-block-group__inner-container">
     <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/Sra57V4.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
@@ -136,48 +172,5 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 <hr class="wp-block-separator" />
 
 <!-- /wp:separator -->
-
-<!-- wp:group -->
-
-<div class="wp-block-group" id="results">
-  <div class="wp-block-group__inner-container">
-    <!-- wp:heading -->
-    
-    <h2>
-      <strong>THAT IS THE SEQUENCE I WANT</strong>
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading -->
-    
-    <h2>
-      C  G  Am  |Dm  Am  Bdim  |Em  C  Dm  |F  G  C
-    </h2>
-    
-    <!-- /wp:heading -->
-    
-    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences7.mp3" loop preload="auto"></audio></figure> 
-    
-    <!-- /wp:audio -->
-    
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
-    
-    <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/RsowTZO.png
-    </div></figure> 
-    
-    <!-- /wp:core-embed/imgur -->
-    
-    <!-- wp:paragraph -->
-    
-    <p>
-    </p>
-    
-    <!-- /wp:paragraph -->
-  </div>
-</div>
-
-<!-- /wp:group -->
 
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
