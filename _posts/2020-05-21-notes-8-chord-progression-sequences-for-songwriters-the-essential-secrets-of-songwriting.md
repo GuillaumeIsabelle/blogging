@@ -82,4 +82,24 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- /wp:group -->
 
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      C Dm| Bdim C|Am Bdim|G C
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:audio --><figure class="wp-block-audio"><audio controls src="https://www.secretsofsongwriting.com/sequences1.mp3" loop preload="auto"></audio></figure> 
+    
+    <!-- /wp:audio -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
