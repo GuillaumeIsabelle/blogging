@@ -126,4 +126,49 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
 
 <!-- /wp:group -->
 
+<!-- wp:separator -->
+
+<hr class="wp-block-separator" />
+
+<!-- /wp:separator -->
+
+<!-- wp:group -->
+
+<div class="wp-block-group">
+  <div class="wp-block-group__inner-container">
+    <!-- wp:heading -->
+    
+    <h2>
+      <strong>THAT IS THE SEQUENCE I WANT</strong>
+    </h2>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:heading {"level":3} -->
+    
+    <h3>
+      C  G  Am  |Dm  Am  Bdim  |Em  C  Dm  |F  G  C
+    </h3>
+    
+    <!-- /wp:heading -->
+    
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    
+    <div class="wp-block-embed__wrapper">
+      https://i.imgur.com/RsowTZO.png
+    </div></figure> 
+    
+    <!-- /wp:core-embed/imgur -->
+    
+    <!-- wp:paragraph -->
+    
+    <p>
+    </p>
+    
+    <!-- /wp:paragraph -->
+  </div>
+</div>
+
+<!-- /wp:group -->
+
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
