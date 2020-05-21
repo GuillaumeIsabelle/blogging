@@ -7,7 +7,7 @@ author: gicomadmin
 post_excerpt: "Intégrer des notions d'enchaînement d'accord. |  J'observe que mes enchaînements d'accord ne résoudent pas où je le désir "
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2020/05/21/notes-chord-progression-sequences/
+  http://guillaumeisabelle.com/blogging/2020/05/21/notes-chord-progression-sequences-ref2005210132/
 published: true
 post_date: 2020-05-21 01:46:04
 ---
@@ -149,11 +149,11 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     
     <!-- /wp:heading -->
     
-    <!-- wp:heading {"level":3} -->
+    <!-- wp:heading -->
     
-    <h3>
+    <h2>
       C  G  Am  |Dm  Am  Bdim  |Em  C  Dm  |F  G  C
-    </h3>
+    </h2>
     
     <!-- /wp:heading -->
     
