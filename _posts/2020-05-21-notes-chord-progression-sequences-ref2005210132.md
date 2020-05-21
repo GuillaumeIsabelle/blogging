@@ -51,10 +51,10 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     
     <!-- /wp:audio -->
     
-    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/RsowTZO.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+    <!-- wp:core-embed/imgur {"url":"https://i.imgur.com/e3tGVp9.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
     
     <div class="wp-block-embed__wrapper">
-      https://i.imgur.com/RsowTZO.png
+      https://i.imgur.com/e3tGVp9.png
     </div></figure> 
     
     <!-- /wp:core-embed/imgur -->
@@ -194,9 +194,39 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     <!-- wp:shortcode --> [zotpres tags="ref2005210132" notes=yes cite=yes abstract=no] 
     
     <!-- /wp:shortcode -->
+    
+    <!-- wp:group -->
+    
+    <div class="wp-block-group">
+      <div class="wp-block-group__inner-container">
+        <!-- wp:heading -->
+        
+        <h2>
+          Chords sequence
+        </h2>
+        
+        <!-- /wp:heading -->
+        
+        <!-- wp:embed {"url":"https://drive.google.com/open?id=1NWafTnMzC9s-uCTTXIFME7Etjf7LiqF0AAS1LWi3G34"} --><figure class="wp-block-embed">
+        
+        <div class="wp-block-embed__wrapper">
+          https://drive.google.com/open?id=1NWafTnMzC9s-uCTTXIFME7Etjf7LiqF0AAS1LWi3G34
+        </div></figure> 
+        
+        <!-- /wp:embed -->
+      </div>
+    </div>
+    
+    <!-- /wp:group -->
   </div>
 </div>
 
 <!-- /wp:group -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
 
  [1]: https://www.secretsofsongwriting.com/2012/02/01/8-chord-progression-sequences-for-songwriters/
