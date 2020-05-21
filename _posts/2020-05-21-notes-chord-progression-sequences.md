@@ -2,13 +2,12 @@
 ID: 1919
 post_title: >
   Notes:8 Chord Progression Sequences for
-  Songwriters | The Essential Secrets of
-  Songwriting
+  Songwriters
 author: gicomadmin
 post_excerpt: "Intégrer des notions d'enchaînement d'accord. |  J'observe que mes enchaînements d'accord ne résoudent pas où je le désir "
 layout: post
 permalink: >
-  http://guillaumeisabelle.com/blogging/2020/05/21/notes-8-chord-progression-sequences-for-songwriters-the-essential-secrets-of-songwriting/
+  http://guillaumeisabelle.com/blogging/2020/05/21/notes-chord-progression-sequences/
 published: true
 post_date: 2020-05-21 01:46:04
 ---
