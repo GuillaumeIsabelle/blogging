@@ -1,7 +1,7 @@
 ---
 ID: 1919
 post_title: >
-  Notes::8 Chord Progression Sequences for
+  Notes:8 Chord Progression Sequences for
   Songwriters | The Essential Secrets of
   Songwriting
 author: gicomadmin
