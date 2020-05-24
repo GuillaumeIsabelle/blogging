@@ -9,6 +9,20 @@ permalink: >
 published: true
 post_date: 2020-05-24 12:49:08
 ---
-> Causal inference is the process of drawing a conclusion about a causal connection based on the conditions of the occurrence of an effect. The main difference between causal inference and inference of association is that the former analyzes the response of the effect variable when the cause is changed.\[1\]\[2\] The science of why things occur is called etiology. Causal inference is an example of causal reasoning. Source: *[Causal inference - Wikipedia][1]*
+<!-- wp:quote -->
 
- [1]: https://en.wikipedia.org/wiki/Causal_inference
+<blockquote class="wp-block-quote">
+  <p>
+    Causal inference is the process of drawing a conclusion about a causal connection based on the conditions of the occurrence of an effect. The main difference between causal inference and inference of association is that the former analyzes the response of the effect variable when the cause is changed.[1][2] The science of why things occur is called etiology. Causal inference is an example of causal reasoning.
+  </p>
+  
+  <cite><a href="https://en.wikipedia.org/wiki/Causal_inference">https://en.wikipedia.org/wiki/Causal_inference</a></cite>
+</blockquote>
+
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+
+
+
+<!-- /wp:paragraph -->
