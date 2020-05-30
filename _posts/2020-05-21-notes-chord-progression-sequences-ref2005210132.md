@@ -191,7 +191,17 @@ Source: *[8 Chord Progression Sequences for Songwriters | The Essential Secrets 
     
     <!-- /wp:heading -->
     
-    <!-- wp:shortcode --> [zotpres tags="ref2005210132" notes=yes cite=yes abstract=no] 
+    <!-- wp:shortcode --> [zotpress tags="ref2005210132" notes=yes cite=yes abstract=no] 
+    
+    <!-- /wp:shortcode -->
+    
+    <!-- wp:separator -->
+    
+    <hr class="wp-block-separator" />
+    
+    <!-- /wp:separator -->
+    
+    <!-- wp:shortcode --> [zotpress tags="ref2005301300" notes=yes cite=yes abstract=no] 
     
     <!-- /wp:shortcode -->
     
