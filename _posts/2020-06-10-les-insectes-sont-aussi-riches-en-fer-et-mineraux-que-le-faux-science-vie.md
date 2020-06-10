@@ -13,12 +13,12 @@ post_date: 2020-06-10 16:23:25
 
 Source: *[Les insectes sont aussi riches en fer et minéraux que le faux-... - Science & Vie][1]*
 
-<!-- wp:embed {"url":"https://i.imgur.com/ekWAuoe.png"} --><figure class="wp-block-embed">
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/ekWAuoe.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
 
 <div class="wp-block-embed__wrapper">
   https://i.imgur.com/ekWAuoe.png
 </div></figure> 
 
-<!-- /wp:embed -->
+<!-- /wp:core-embed/imgur -->
 
  [1]: https://www.science-et-vie.com/corps-et-sante/les-insectes-sont-aussi-riches-en-fer-et-mineraux-que-le-faux-filet-7225
