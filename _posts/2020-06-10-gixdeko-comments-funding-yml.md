@@ -34,3 +34,17 @@ I have updated my Funding config for an visual studio code extention I have crea
 I am curious if I am going to have a page such as this one above when we open my DEKO Installation in VSCode ?
 
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
+Oh I got the answer right here, he puts that in the readme...
+
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/imgur {"url":"https://i.imgur.com/lYJwaVo.png","type":"rich","providerNameSlug":"imgur","className":""} --><figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur">
+
+<div class="wp-block-embed__wrapper">
+  https://i.imgur.com/lYJwaVo.png
+</div></figure> 
+
+<!-- /wp:core-embed/imgur -->
