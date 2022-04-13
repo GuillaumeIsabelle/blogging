@@ -2,4 +2,10 @@
 My Blogging repo
 
 
-http://guillaumeisabelle.com/blogging/wp-admin/plugins.php
+# ARCHIVED
+
+
+## [pages](_pages)
+
+## [posts](_posts)
+
