@@ -5,7 +5,7 @@ My Blogging repo
 # ARCHIVED
 
 
-## [pages](_pages)
+## [pages](pages/index)
 
-## [posts](_posts)
+## [posts](posts/index.md)
 
